@@ -1,0 +1,3 @@
+xiaohuang,5,100
+xiaohong,23,99
+xiaowang,50,89
